@@ -92,11 +92,11 @@ pip install pandas scikit-learn
 python Stock_DT_algo.py
 ```
 
-##🖥️ You Should See:
+## 🖥️ You Should See:
 - The predicted opening price for the provided test input.
 - The R² score showing model accuracy on the test data.
 
-#Conclusion
+## Conclusion
 This project provides a basic framework for applying machine learning to stock market data. Using a Decision Tree Regressor, it demonstrates how historical trading features can be used to predict future stock opening prices. While the approach is simple and interpretable, there are many opportunities for enhancement:
 
 - Try advanced models like Random Forest, XGBoost, or LSTM.
